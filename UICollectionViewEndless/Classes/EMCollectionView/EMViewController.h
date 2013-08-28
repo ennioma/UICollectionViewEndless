@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface EMViewController : UIViewController<UICollectionViewDataSource, UICollectionViewDelegate, UICollectionViewDelegateFlowLayout>
+@interface EMViewController : UIViewController<UICollectionViewDataSource, UICollectionViewDelegate>
 
 @end
